@@ -1,7 +1,7 @@
 export const DATA = {
     'India': 'Delhi',
     'Russia': 'Moscow',
-    'China': 'Berlin',
+    'China': 'Beijing',
     'United States': 'Washington, D.C.',
     'Japan': 'Tokyo',
     'Brazil': 'Brasília',
