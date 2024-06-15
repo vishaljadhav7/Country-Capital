@@ -55,7 +55,9 @@ const Game = ({ data }) => {
   }, [sec])
 
   // function reset(){
-
+     // setIsCorrect({});
+     //    setFirst(null)
+     //    setSec(null)
   // }
 
   return (
